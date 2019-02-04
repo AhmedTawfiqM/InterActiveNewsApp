@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TaskInterviewNews</string>
+
+    <array name="providers">
+        <item>اليوم السابع</item>
+        <item>سكاي نيوز عرابية</item>
+        <item>البوابة</item>
+        <item>مصراوي</item>
+        <item>البيان</item>
+        <item>البلد</item>
+        <item>الوطن</item>
+        <item>يلا كورة</item>
+        <item>الجزيرة</item>
+        <item>الأهلي</item>
+        <item>صوت الوطن</item>
+        <item>الأهرام </item>
+        <item>النشرة</item>
+        <item>العربية</item>
+
+        <item>فايل جول</item>
+        <item>أخبارك</item>
+        <item>سما نيوز</item>
+        <item>اليوم 24</item>
+        <item>المصري اليوم</item>
+        <item>وطن صيرب</item>
+
+        <item>ٌRT</item>
+        <item>Bbc</item>
+        <item>تيك وود</item>
+        <item>هيس بريس</item>
+
+    </array>
+
+    <string name="alert_internet">تأكد من اتصالات بالانترنت</string>
+    <string name="alert_news">لا يوجد أخبار حاليا</string>
+
+</resources>
